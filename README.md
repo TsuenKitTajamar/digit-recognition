@@ -2,7 +2,7 @@
 
 El propósito es desarrollar un sistema de reconocimiento de dígitos basado en un modelo de red neuronal convolucional
 
-[HERE IS A DEMO VIDEO](https://tajamar365-my.sharepoint.com/:v:/p/tsuenkit_lui/EeiO3d15F8FOnlQux01i8JoBB-kSni4WAOC1HJC6XqvGvA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=RRYtAs)
+[HERE IS A DEMO VIDEO](https://tajamar365-my.sharepoint.com/:v:/p/tsuenkit_lui/EeiO3d15F8FOnlQux01i8JoBYWhkqak9L4_uujXXmmSV-Q?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kkII2d)
 
 Puedes pinchar en el link anterior para ver cómo funciona
 
